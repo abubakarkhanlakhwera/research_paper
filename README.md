@@ -1,36 +1,32 @@
-# Research Paper
+# AI, Healthcare, and 5G Research Workspace
 
-Research paper workspace for AI, healthcare, and 5G impact analysis.
+A research paper workspace focused on AI, healthcare, and 5G impact analysis.
 
-## Overview
+## Purpose
 
-This is a AI/ML learning and prototype repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+This repository is for organizing research material around how AI and 5G can affect healthcare systems. It is more research/documentation oriented than a software application.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- Research organization
+- AI/healthcare topic framing
+- Document-based project structure
 
-## Tech Stack
+## Stack
 
-- Primary language: Not detected by GitHub yet
-- Topics: 5g, ai-healthcare, research
+- Research writing
+- AI healthcare
+- 5G
 
-## Repository Structure
+## Status / Safety Note
 
-- Top-level folders: ai-healthcare-impact-5g
-- Top-level files: No top-level files detected.
-
-## Status
-
-This repository is public today, but it should be reviewed before being promoted heavily in applications because the name/content suggests billing, operational, research, or client-style work.
+Review before promoting because research repositories may contain drafts or source material.
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Add abstract and research question
+- Add citation/source notes
+- Ensure no unpublished/private material is exposed
 
 ## Author
 
